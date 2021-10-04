@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ibanescu.valentin@gmail.com
+	name = Valentin Ibanescu
